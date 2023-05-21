@@ -25,5 +25,5 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 ---
 
 <p align="center">
-  Made with 💜 by Alexandre Nolla from Rocketseat
+  Made with 💜 by Alexandre Nolla and Rocketseat
 </p>
